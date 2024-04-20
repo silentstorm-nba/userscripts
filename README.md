@@ -52,6 +52,7 @@ This user script captures API request and response data based on a specified hos
 4. To download the captured data as a JSON file, open the browser's developer console and run the following command:
   ```javascript
   downloadCapturedData();
+  ```
 5. To delete the captured data, run the following command in the browser's developer console:
   ```javascript
   clearCapturedData();
